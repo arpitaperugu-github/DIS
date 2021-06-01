@@ -73,7 +73,6 @@ namespace Question_4
             Program P = new Program();
             //Calling the method PivotIndex
             int result = P.PivotIndex(lst);
-            Console.Write("The pivot index is: ");
             Console.Write(result);
             Console.Read();
         }
