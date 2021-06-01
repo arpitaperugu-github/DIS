@@ -8,7 +8,9 @@ namespace Question_1
         {
             int x = 0;
             int y = 0;
+            //Converting the input string to an array of characters
             char[] moves_array = moves.ToCharArray();
+            //Loop over the array of characters and increment/decrement the x and y coordinates accordingly
             for (int i = 0; i < moves_array.Length; i++)
             {
                 if (moves_array[i] == 'R' || moves_array[i] == 'r')
@@ -22,13 +24,15 @@ namespace Question_1
                 Console.WriteLine(x);
                 Console.WriteLine(y);
             }
-            
+            //Returns true of x and y is equal to zero else returns false
             return (x == 0 && y == 0);
         }
         static void Main(string[] args)
         {
+            //Taking the input from the user
             Console.Write("Please enter the moves: ");
             string steps = Console.ReadLine();
+            //Calling the JudgeCircle function
             bool result = Program.JudgeCircle(steps);
             Console.WriteLine(result);
             Console.ReadLine();

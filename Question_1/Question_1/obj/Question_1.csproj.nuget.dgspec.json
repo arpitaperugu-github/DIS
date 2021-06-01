@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arpit\\source\\repos\\Question_1\\Question_1\\Question_1.csproj": {}
+    "C:\\Arpi\\USF\\Summer 2021 Semester\\DIS\\source\\repos\\DIS_Repo\\Assignment 1\\Question_1\\Question_1\\Question_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arpit\\source\\repos\\Question_1\\Question_1\\Question_1.csproj": {
+    "C:\\Arpi\\USF\\Summer 2021 Semester\\DIS\\source\\repos\\DIS_Repo\\Assignment 1\\Question_1\\Question_1\\Question_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arpit\\source\\repos\\Question_1\\Question_1\\Question_1.csproj",
+        "projectUniqueName": "C:\\Arpi\\USF\\Summer 2021 Semester\\DIS\\source\\repos\\DIS_Repo\\Assignment 1\\Question_1\\Question_1\\Question_1.csproj",
         "projectName": "Question_1",
-        "projectPath": "C:\\Users\\arpit\\source\\repos\\Question_1\\Question_1\\Question_1.csproj",
+        "projectPath": "C:\\Arpi\\USF\\Summer 2021 Semester\\DIS\\source\\repos\\DIS_Repo\\Assignment 1\\Question_1\\Question_1\\Question_1.csproj",
         "packagesPath": "C:\\Users\\arpit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arpit\\source\\repos\\Question_1\\Question_1\\obj\\",
+        "outputPath": "C:\\Arpi\\USF\\Summer 2021 Semester\\DIS\\source\\repos\\DIS_Repo\\Assignment 1\\Question_1\\Question_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arpit\\AppData\\Roaming\\NuGet\\NuGet.Config",
