@@ -22,8 +22,6 @@ namespace Question_1
                     y++;
                 else if (moves_array[i] == 'D' || moves_array[i] == 'd')
                     y--;
-                Console.WriteLine(x);
-                Console.WriteLine(y);
             }
             //Returns true of x and y is equal to zero else returns false
             return (x == 0 && y == 0);
