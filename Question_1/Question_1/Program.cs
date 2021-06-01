@@ -4,6 +4,7 @@ namespace Question_1
 {
     class Program
     {
+        //Given a sequence of its moves this method judges if the robot ends up at(0, 0) after it completes its moves
         static public bool JudgeCircle(string moves)
         {
             int x = 0;
